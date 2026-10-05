@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>d4science</groupId>
   <artifactId>jdk-maven-example</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <name>jdk-maven-example</name>
   <description>An example of a Java + maven pmethod for CCP</description>
   <properties>
